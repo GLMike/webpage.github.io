@@ -1,0 +1,38 @@
+body {
+  font-size: 17px;
+}
+header {
+  font: bold;
+  font-size: 15px;
+  color: bisque;
+  background-color: black;
+  padding: 0px;
+  color: white;
+  border-style: double;
+  text-align: center;
+}
+input {
+  width: 500px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+  flex-grow: 1;
+  margin-top: 20px;
+  border-bottom: 20px;
+  border: 2px solid;
+}
+
+html {
+  background-image: url("i.jpg");
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+label {
+  color: white;
+}

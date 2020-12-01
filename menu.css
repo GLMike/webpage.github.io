@@ -1,0 +1,19 @@
+* {
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font: gill;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+}
+
+.second_header ul li {
+  float: left;
+  margin-top: 30px;
+  width: 100%;
+  color: antiquewhite;
+  overflow: hidden;
+}
