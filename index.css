@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #51d64a;
+}
+
+.flexCenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.flexBetween {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.content {
+  width: 90%;
+}
+
+.menu {
+  background-color: #51d64a;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: black;
+  padding: 50px;
+  color: white;
+  border-style: double;
+}
